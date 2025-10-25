@@ -23,6 +23,11 @@ ENV/
 .cache/
 reports/
 *.html
+__pycache__/
+.vscode/
+*.log
+*.pyc
+*.pyo
 
 # IDEs
 .vscode/
